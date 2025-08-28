@@ -1,0 +1,16 @@
+﻿[FDPhysSQLiteDriverLink1]
+Coordinates=168,1,165,36
+
+[FDConnection1]
+Coordinates=168,56,104,36
+
+[Image1]
+Coordinates=10,10,57,58
+
+[FDQuery1]
+Coordinates=77,10,73,58
+
+[]
+Coordinates=160,10,76,36
+Visible=True
+

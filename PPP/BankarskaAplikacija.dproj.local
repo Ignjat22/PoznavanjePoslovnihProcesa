@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/08/27 14:13:01.000.544,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/27 14:13:50.000.951,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit1.pas</Transaction>
+    <Transaction>2025/08/27 14:13:50.000.951,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit1.dfm</Transaction>
+    <Transaction>2025/08/27 14:14:02.000.508,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Project3.dproj</Transaction>
+    <Transaction>2025/08/27 14:24:19.000.316,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Project3.dproj=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\BankarskaAplikacija.dproj</Transaction>
+    <Transaction>2025/08/27 14:24:29.000.059,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit1.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Login.pas</Transaction>
+    <Transaction>2025/08/27 14:24:29.000.059,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit1.dfm=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Login.dfm</Transaction>
+    <Transaction>2025/08/27 14:57:41.000.068,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit2.pas</Transaction>
+    <Transaction>2025/08/27 14:58:19.000.634,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit2.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\MainForm.pas</Transaction>
+    <Transaction>2025/08/27 14:58:19.000.634,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit2.dfm=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\MainForm.dfm</Transaction>
+    <Transaction>2025/08/27 16:20:09.801,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit3.pas</Transaction>
+    <Transaction>2025/08/27 16:20:15.767,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Klijent.dfm=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit3.dfm</Transaction>
+    <Transaction>2025/08/27 16:20:15.767,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Klijent.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit3.pas</Transaction>
+    <Transaction>2025/08/27 16:20:32.497,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit4.pas</Transaction>
+    <Transaction>2025/08/27 16:20:41.738,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\KreditniZahtev.dfm=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit4.dfm</Transaction>
+    <Transaction>2025/08/27 16:20:41.738,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\KreditniZahtev.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit4.pas</Transaction>
+    <Transaction>2025/08/27 16:20:58.159,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit5.pas</Transaction>
+    <Transaction>2025/08/27 16:21:03.301,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Odluka.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit5.pas</Transaction>
+    <Transaction>2025/08/27 16:21:03.301,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Odluka.dfm=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit5.dfm</Transaction>
+    <Transaction>2025/08/27 16:21:18.856,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit6.pas</Transaction>
+    <Transaction>2025/08/27 16:21:24.965,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Ugovori.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit6.pas</Transaction>
+    <Transaction>2025/08/27 16:21:24.965,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Ugovori.dfm=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PPP\Unit6.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
